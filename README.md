@@ -1,6 +1,7 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-NAME: DANIEL C
-REG NO: 212223240023
+## NAME: DANIEL C
+
+## REG NO: 212223240023
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
